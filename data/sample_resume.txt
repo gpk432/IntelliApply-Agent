@@ -1,0 +1,82 @@
+John Doe  
+(555) 987-6543 | john.doe.data@testmail.com  
+LinkedIn: linkedin.com/in/johndoe-data  
+GitHub: github.com/johndoe  
+
+PROFESSIONAL SUMMARY  
+Results-driven Data Engineer with 4+ years of experience building scalable data pipelines, cloud data solutions, and analytics platforms. Strong background in distributed computing, ETL orchestration, and enterprise data modeling. Skilled in Python, SQL, Spark, Azure, AWS, and Databricks. Experienced in delivering end-to-end data systems across healthcare, education, and SaaS environments. Seeking roles in Data Engineering, Data Science, or Analytics Engineering.
+
+TECHNICAL SKILLS  
+Programming: Python, SQL, Java, JavaScript, R, Bash  
+Big Data / ETL: Apache Spark, PySpark, SparkSQL, Airflow, DBT, Data Factory, Fivetran  
+Databases: PostgreSQL, MySQL, Oracle, MongoDB, DynamoDB  
+Cloud Platforms:  
+• AWS — Lambda, S3, Glue, Redshift, EMR, CloudWatch, IAM  
+• Azure — Data Lake, Databricks, Functions, Cosmos DB  
+DevOps / CI/CD: Docker, Kubernetes, GitHub Actions, Jenkins  
+Visualization: Power BI, Tableau, QuickSight, Plotly, Seaborn  
+Frameworks: Flask, Spring Boot, React.js  
+Tools: Jira, Confluence, Asana, Git
+
+EDUCATION  
+Midwest Institute of Technology  
+M.S. in Data Science and Analytics  
+Aug 2023 – Dec 2024  
+
+PROFESSIONAL EXPERIENCE  
+
+QuantumCare Health Systems — Data Engineer  
+Jan 2025 – Present  
+• Developed automated ETL pipelines using Azure Data Factory & Databricks, improving data refresh latency by 40%.  
+• Designed PySpark data models integrating patient records, claims, and operational metrics.  
+• Built real-time reporting dashboards that improved clinical visibility and reduced process delays by 20%.  
+• Implemented data validation frameworks ensuring HIPAA-aligned governance and anomaly detection.  
+• Created Azure Monitor alerting and logging pipelines reducing production failures by 60%.  
+• Collaborated with cross-functional stakeholders using Agile workflows.
+
+QuantumCare Health Systems — Data Engineering Intern  
+May 2024 – Dec 2024  
+• Re-engineered legacy ETL jobs with Airflow DAGs and PySpark, improving pipeline reliability by 55%.  
+• Designed SQL data-quality scripts validating medical datasets across 15+ tables.  
+• Optimized Spark transformations reducing job runtimes by ~35%.  
+• Supported Power BI dashboards for clinical throughput monitoring.  
+• Documented data workflows and onboarding materials used by new engineers.
+
+Research Assistant — Midwest Institute of Technology  
+Oct 2023 – Apr 2024  
+• Built Python web-scraping pipelines and React.js UI reducing monthly manual data collection by 50 hours.  
+• Designed ML experiments achieving 60%+ accuracy on classification tasks.  
+• Implemented parallel processing boosting preprocessing performance by 35%.  
+• Created analytical dashboards using Plotly and Seaborn.
+
+Data Engineer — DataMatrix Analytics  
+May 2020 – Aug 2023  
+• Designed scalable ETL pipelines in AWS Glue integrating CRM, sales, and marketing data.  
+• Developed SparkSQL transformations standardizing inconsistent schemas across 20+ data sources.  
+• Implemented CI/CD pipelines with AWS CDK & CodePipeline enabling automated deployment.  
+• Built executive Power BI dashboards tracking KPIs such as churn, acquisition cost, and retention.  
+• Integrated SageMaker anomaly detection reducing monthly operational risks by ~25%.  
+• Automated log monitoring with CloudWatch dashboards and event-driven alerts.  
+
+PROJECTS  
+
+CryptoTrend Predictor — Time-Series Forecasting  
+• Built LSTM, GRU, and SVM models achieving R² scores of 66–68%.  
+• Applied windowing, normalization, and hyperparameter tuning.  
+• Built Streamlit dashboard for live visualization and model comparison.
+
+Cloud Log Monitoring Pipeline — AWS  
+• Developed serverless log-processing stack using Lambda, Glue & S3.  
+• Stored processed data in Redshift for near–real-time monitoring.  
+• Built QuickSight dashboards showing latency, errors, and anomalies.
+
+QuizFlow — Microservices Platform  
+• Converted monolithic system into microservices using Flask & Docker.  
+• Added Redis caching and optimized SQL queries reducing latency by 40%.  
+• Achieved 100% pytest coverage.
+
+CERTIFICATIONS  
+• Azure Data Engineer Associate (Fictional)  
+• AWS Data Engineering Professional (Fictional)  
+• Databricks Data Engineer Associate (Fictional)  
+• Data Science & Analytics Professional Certificate  
