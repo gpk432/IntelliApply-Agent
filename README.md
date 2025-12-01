@@ -81,17 +81,19 @@ IntelliApply-Agent/
 ## How to Run
 1. Open `notebook/IntelliApply.ipynb`
 2. Enter your Gemini API key when prompted
-3. Upload a resume
-4. Provide job preferences
-5. Review ranked jobs
-6. Download generated PDFs
+3. Upload a resume (PDF, DOCX, or TXT)
+4. Review the automatically extracted job preferences (roles, skills, locations, remote preference)
+5. Review ranked job matches fetched from the web
+6. Download the generated PDF resume & cover letter
 
 ## Future Enhancements
-- Direct job applications via API
-- More resume templates and formatting
+- Manual preference editing (user-provided roles, locations, minimum salary)
+- Direct job applications via API (LinkedIn / Greenhouse / Indeed integrations)
+- More resume templates & formatting styles
 - Cloud deployment with Vertex AI Agent Engine
-- Persistent user sessions
-- Multi-resume optimization
+- Persistent user sessions & long-term profile storage
+- Multi-resume optimization for batch job search
+- Smart job-location filtering (country, timezone, hybrid, etc.)
 
 ## License
 This project is published for academic and demonstration purposes.
